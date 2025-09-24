@@ -2,7 +2,7 @@
   "name": "digitorn-landing",
   "version": "1.0.0",
   "description": "Modern landing page för digitalbyrå",
-  "main": "index.js",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
