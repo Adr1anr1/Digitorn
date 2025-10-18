@@ -70,7 +70,7 @@ const Footer = () => {
           <div className="footer-contact">
             <h4 className="footer-title">Kontakt</h4>
             <div className="footer-contact-info">
-              <p>📧 hej@digitorn.se</p>
+              <p>📧 info@digitorn.se</p>
               <p>📞 +46 70 123 45 67</p>
               <p>📍 Stockholm, Sverige</p>
             </div>
